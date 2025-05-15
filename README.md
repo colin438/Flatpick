@@ -5,7 +5,7 @@
 ## Install
 
 #### Edit your ~/.zshrc via nano  ~/.zshrc  (or any other text editor, nano is better though)
-#### go to the end of the file and add the code below
+#### go to the end of the file and add the code below and after you paste it run source ~/.zshrc      
 <div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px;">
 
 ```bash
